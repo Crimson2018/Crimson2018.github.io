@@ -1,0 +1,17 @@
+.nav ul{
+    list-style: style none;
+    text-align: center;
+}
+
+
+.nav li{
+    display: inline-block;
+    padding: 15px;
+    font-size: 251%;
+}
+
+body{
+
+    font-family: 'Hanalei Fill', cursive;
+    background-color: #0C0EE8;
+}
